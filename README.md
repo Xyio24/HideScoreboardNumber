@@ -1,3 +1,20 @@
+<div align="center">
+  <a href="https://github.com/Xyio24/HideScoreboardNumber">
+    <img src="pack.png" alt="Logo" width="32" height="32">
+  </a>
+
+<h3 align="center">Hide Scoreboard Number</h3>
+
+  <p align="center">
+    A resourcepack that allows you to remove the numbers on your scoreboard
+    <br />
+    <br />
+    <a href="https://github.com/Xyio24/HideScoreboardNumber">View Documentation</a>
+    ·
+    <a href="https://github.com/Xyio24/HideScoreboardNumber/issues">Report a Bug</a>
+  </p>
+</div>
+
 ---
 How to install it to your Minecraft
 ---
