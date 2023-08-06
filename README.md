@@ -6,7 +6,7 @@
 <h3 align="center">Hide Scoreboard Number</h3>
 
   <p align="center">
-    A resourcepack that allows you to remove the numbers on your scoreboard
+    Do you annoyed with the ugly red number in your scoreboard? Then, you can use this resourcepack to get rid of that red number.
     <br />
     <br />
     <a href="https://github.com/Xyio24/HideScoreboardNumber">View Documentation</a>
@@ -14,6 +14,11 @@
     <a href="https://github.com/Xyio24/HideScoreboardNumber/issues">Report a Bug</a>
   </p>
 </div>
+
+<p align="center">
+  <img alt="GitHub last commit" src="https://img.shields.io/badge/Last_Commit-August_6_2023-red">
+  <img alt="GitHub Release Date" src="https://img.shields.io/badge/Release_Date-August_6_2023-red">
+</p>
 
 ---
 How to install it to your Minecraft
